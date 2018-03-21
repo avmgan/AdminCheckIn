@@ -1,0 +1,10 @@
+<checkin>
+<admin>
+	<username>Administrator</username>
+	<password>tridion</password>
+</admin>
+<users>
+	<user>Tester</user>
+	<user>Tester2</user>
+</users>
+</checkin>

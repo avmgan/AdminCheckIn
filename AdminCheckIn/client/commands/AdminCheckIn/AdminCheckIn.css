@@ -1,0 +1,18 @@
+.tridion .ribbontoolbar .button.AdminCheckIn .image {
+width: 32px;
+height: 32px;
+background-image: url("/WebUI/Editors/AdminCheckIn/client/commands/AdminCheckIn/Icons/AdminCheckInCM32.png");
+background-position: 0 -4160px;
+}
+.tridion .ribbontoolbar.minimized .button.AdminCheckIn .image{
+width: 16px;
+height: 16px;
+background-image: url("/WebUI/Editors/AdminCheckIn/client/commands/AdminCheckIn/Icons/AdminCheckInCM16.png");
+background-position: 0 -2528px;
+}
+.tridion .contextmenu .item.AdminCheckIn .image {
+width: 16px;
+height: 16px;
+background-image: url("/WebUI/Editors/AdminCheckIn/client/commands/AdminCheckIn/Icons/AdminCheckInCM16.png");
+background-position: 0 -2496px;
+}
